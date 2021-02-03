@@ -38,8 +38,8 @@
 
 
 ## Statics
-<img alt="Abhishek's GitHub Stats" height=150em align="left" src="https://github-readme-stats.vercel.app/api/?username=abhishekjnvk&show_icons=true&theme=radical&hide_border=false&count_private=false" />
-<img alt="Abhishek's GitHub Stats" height=150em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj1399&show_icons=true&layout=compact&theme=radical&hide=html,css&custom_title=Most used languages" />
+<img alt="Suraj Kr GitHub Stats" height=150em align="left" src="https://github-readme-stats.vercel.app/api/?username=Suraj1399&show_icons=true&theme=radical&hide_border=false&count_private=false" />
+<img alt="Suraj Kr GitHub Stats" height=150em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj1399&show_icons=true&layout=compact&theme=radical&hide=html,css&custom_title=Most used languages" />
 
 
 [website]: https://resume.abhishekjnvk.in
