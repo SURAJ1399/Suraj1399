@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m looking for help with **anything android**
+- 🤝 I’m up for help with **anything android**
 
 - 💬 Ask me about **Android, DSA, MERN**
 
