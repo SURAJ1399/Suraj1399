@@ -5,12 +5,12 @@
 - 👯 I’m looking for internship opportunities.
 - 🌱 Eager to try & learn new things.
 - 🥅 Also to contribute more and more to Open Source projects.
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning MERN
 
 ### Connect with me:
-[![Website](https://img.shields.io/website?label=resume.abhishekjnvk.in&style=for-the-badge&url=https://resume.abhishekjnvk.in/)](https://resume.abhishekjnvk.in/)
-[<img alt="Abhishek | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="Abhishek | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:abhishekjnvk@gmail.com>)
+[![Instagram](https://img.shields.io/website?label=resume.abhishekjnvk.in&style=for-the-badge&url=https://resume.abhishekjnvk.in/)](https://resume.abhishekjnvk.in/)
+[<img alt="Suraj Kr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Suraj Kr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:nitjsr.surajkr@gmail.com>)
 
 ### Languages and Tools:
 
