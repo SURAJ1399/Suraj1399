@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m up for help with **anything android & CP**
+- 🤝 I’m up for help with **anything android **
 
-- 💬 Ask me about **Android, Data Structure & Algorithm , MERN**
+- 💬 Ask me about **android, data structure & algorithm**
 
 - 📫 How to reach me **nitjsr.surajkr@gmail.com**
 
