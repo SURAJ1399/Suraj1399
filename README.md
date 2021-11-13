@@ -2,7 +2,7 @@
 <h3 align="center">A person who loves to code</h3>
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Backend** &  **System Design**
 
 - 🤝 I’m up for help with **anything android**
 
