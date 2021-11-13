@@ -6,7 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/nitjsr.surajkr@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:nitjsr.surajkr@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/surajkr1399-30302F?style=flat&logo=linkedin)](https://linkedin.com/in/surajkr1399/)
 [![Instagram Badge](https://img.shields.io/badge/ig_piedevelopers-30302F?style=flat&logo=instagram)](https://instagram.com/ig_piedevelopers"/)
-[![CodeChef Badge](https://img.shields.io/badge/suraj1399-30302F?style=flat&logo=codechef)](https://www.codechef.com/users/suraj1399)
+[![Leetcode Badge](https://img.shields.io/badge/Surajkr1399-30301F?style=flat&logo=leetcode)](https://https://leetcode.com/Surajkr1399/)
+[![CodeChef Badge](https://img.shields.io/badge/suraj1399-30303F?style=flat&logo=codechef)](https://www.codechef.com/users/suraj1399)
 ![](https://komarev.com/ghpvc/?username=SURAJ1399&label=PROFILE+VIEWS)
 
 <h3> 👨🏻‍💻 About Me </h3>
