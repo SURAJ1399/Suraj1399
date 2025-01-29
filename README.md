@@ -15,10 +15,7 @@
 
 - 👨‍💻 Software Engineer 
 - 🎓 B.Tech from National Insitute of Technology.
-- 🌱 I’m currently learning Backend &  System Design
 - 🔭 I’m up for help with anything android
-- 💬 Ask me about android & DSA
-- ⚡ Fun fact I love to study human psychology
 
 
 <h3>🛠 Tech Stack</h3>
